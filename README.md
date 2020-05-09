@@ -1,6 +1,10 @@
 # Bulk-Netname-lookup
 A NodeJS script for searching a bulk IP search resulting in Netnames
 
-# How to use?
+# How to install?
 
+  https://github.com/IGSteven/Bulk-Netname-lookup.git
+  NPM Install
+
+# How to use?
 Create a ips.txt file with all the IP address you'd like to test, 1 IP per line.
