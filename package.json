@@ -1,0 +1,31 @@
+{
+  "name": "netnamelookup",
+  "version": "1.0.0",
+  "description": "A NodeJS script for searching a bulk IP search resulting in Netnames",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IGSteven/Bulk-Netname-lookup.git"
+  },
+  "keywords": [
+    "UKServers",
+    "UK Dedicated Servers Limited",
+    "Netname",
+    "Lookup",
+    "NodeJS"
+  ],
+  "author": "Steven Smith (IGSteven)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IGSteven/Bulk-Netname-lookup/issues"
+  },
+  "homepage": "https://github.com/IGSteven/Bulk-Netname-lookup#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "fs": "0.0.1-security",
+    "whois": "^2.12.1"
+  }
+}
